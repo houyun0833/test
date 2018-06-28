@@ -1,0 +1,34 @@
+﻿生成启动时间为 2018-6-7 10:21:16。
+     1>项目“E:\work\anti_aliased\antialias_src\WuLines\WuLines.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\Debug\WuLines.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\WuLines.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt WuLinesDlg.cpp
+         WuLinesDlg.cpp
+     1>e:\work\anti_aliased\antialias_src\wulines\wulinesdlg.cpp(425): warning C4244: “=”: 从“unsigned long”转换到“unsigned short”，可能丢失数据
+     1>e:\work\anti_aliased\antialias_src\wulines\wulinesdlg.cpp(472): warning C4244: “=”: 从“unsigned long”转换到“unsigned short”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\WuLines.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:".\Debug\WuLines.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\work\anti_aliased\antialias_src\WuLines\Debug\WuLines.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\WuLines.lib" /MACHINE:X86 .\Debug\WuLines.res
+         .\Debug\WuLines.exe.embed.manifest.res
+         .\Debug\StdAfx.obj
+         .\Debug\WuLines.obj
+         .\Debug\WuLinesDlg.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\WuLines.exe.embed.manifest" /manifest .\Debug\WuLines.exe.intermediate.manifest "D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         WuLines.vcxproj -> E:\work\anti_aliased\antialias_src\WuLines\.\Debug\WuLines.exe
+       FinalizeBuildStatus:
+         正在删除文件“.\Debug\WuLines.unsuccessfulbuild”。
+         正在对“.\Debug\WuLines.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\work\anti_aliased\antialias_src\WuLines\WuLines.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.51
